@@ -1,4 +1,4 @@
-import Game from './game'
+import Game from '/game.js'
 import Background from './background.js'
 import Winner from './winner.js'
 
