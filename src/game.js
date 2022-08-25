@@ -1,5 +1,5 @@
 import Paddle from './paddle.js'
-import InputHandler from '/src/input.js'
+import InputHandler from './input.js'
 import Ball from './ball.js'
 import Brick from './brick.js'
 import { buildLevel, level1, level2, level3, level4 } from './levels.js'
